@@ -6,7 +6,7 @@
     "require": {
         "drupal/core": "^11",
         "drupal/dxpr_theme": "^6.0",
-        "drupal/dxpr_theme_helper": "^2.0",
+        "drupal/dxpr_theme_helper": "^2.0"
     },
     "version": "1.0.1"
 }
